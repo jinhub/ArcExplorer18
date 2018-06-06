@@ -277,6 +277,20 @@ Below are the links to the notebooks to co-relate the information in this report
 
 ## Links to Notebooks
 
+1. [Learning to See With CNN](https://github.com/jinhub/ArcExplorer18/blob/master/notebooks/Learn-To-See-With-CNN.ipynb)
+1. [Learning to Analyse - Tabular Data](https://github.com/jinhub/ArcExplorer18/blob/master/notebooks/Learn-To-Analyse-Tabular-Data.ipynb)
+1. [Learning to Analyse - On Reason Code - Posrec](https://github.com/jinhub/ArcExplorer18/blob/master/notebooks/Learn-To-Analyse-RCP1.ipynb)
+1. [Learning to Analyse - On Reason Code - Cashrec](https://github.com/jinhub/ArcExplorer18/blob/master/notebooks/Learn-To-Analyse-RCP2.ipynb)
+1. [Learning to Understand Human Language - Language Modelling](https://github.com/jinhub/ArcExplorer18/blob/master/notebooks/Learn-To-Understand-Natural-Language-LM.ipynb)
+1. [Learning to Understand Human Language - Sentiment](https://github.com/jinhub/ArcExplorer18/blob/master/notebooks/Learn-To-Understand-Sentiment.ipynb)
+1. [Learning to Understand Any Human Language - Machine Translation](https://github.com/jinhub/ArcExplorer18/blob/master/notebooks/Learn-To-Understand-Any-Human-Language-MT.ipynb)
+1. [Learning to Understand Relationships - Collaborative Filtering](https://github.com/jinhub/ArcExplorer18/blob/master/notebooks/Learn-To-Understand-CF.ipynb)
+1. [Learning to Interact with RNN](https://github.com/jinhub/ArcExplorer18/blob/master/notebooks/Learn-To-Interact-With-RNN.ipynb)
+1. [Learning to Create - Music](https://github.com/jinhub/ArcExplorer18/blob/master/notebooks/Learn-To-Create-Music.ipynb)
+1. [Learning to Create - Art with GANs](https://github.com/jinhub/ArcExplorer18/blob/master/notebooks/Learn-To-Create-Art-With-GANs.ipynb)
+1. [Learning to Create - Art with CycleGANs](https://github.com/jinhub/ArcExplorer18/blob/master/notebooks/Learn-To-Create-Art-With-CycleGAN.ipynb)
+1. [Learning to Create - Art with Style Transfer](https://github.com/jinhub/ArcExplorer18/blob/master/notebooks/Learn-To-Create-Art-With-ST.ipynb)
+
 ## References
 
 1. [Deep Learning Coursera](https://www.deeplearning.ai/)
